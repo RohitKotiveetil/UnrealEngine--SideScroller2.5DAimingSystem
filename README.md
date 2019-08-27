@@ -11,9 +11,9 @@ Aiming System for 2.5D SideScroller games created using blueprints in Unreal Eng
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Getting Started:**
-- You can find the mouse cursor aim point calculations inside the SideScrollerController blueprint's *GetMousePositionOnPlayerMovementPlane* function
+- You can find the mouse cursor aim point calculations inside the BP_SideScrollerController blueprint's *GetMousePositionOnPlayerMovementPlane* function.
 
-Current Status: Work-in-progress; More features to be added soon
+**Current Status:** Work-in-progress; More features to be added soon
 
 [Note: Does not include aim animation logic]
 
