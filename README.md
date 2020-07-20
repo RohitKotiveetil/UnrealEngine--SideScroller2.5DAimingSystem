@@ -1,6 +1,6 @@
 # UnrealEngine--SideScroller2.5DAimingSystem
 
-Aiming System for 2.5D SideScroller games created using blueprints in Unreal Engine 4.25.
+Aiming System for 2.5D SideScroller games created using blueprints in Unreal Engine.
 
 **v1.0 Features:**
 - Calculates mouse cursor aim location on the player's movement plane.
