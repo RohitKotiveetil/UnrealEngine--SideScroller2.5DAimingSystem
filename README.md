@@ -2,6 +2,8 @@
 
 Aiming System for 2.5D SideScroller games created using blueprints in Unreal Engine.
 
+Optimized for Unreal Engine 5.0
+
 **v1.0 Features:**
 - Calculates mouse cursor aim location on the player's movement plane.
 
@@ -17,4 +19,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [Note: Does not include aim animation logic]
 
-(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
